@@ -24,7 +24,6 @@ class Application
         end
       end
 
-    end
     else
       resp.write "Path Not Found"
     end
